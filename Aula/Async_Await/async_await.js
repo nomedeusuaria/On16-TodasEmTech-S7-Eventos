@@ -27,7 +27,7 @@ function enviarEmail(corpo, para){
     });
 }
 
-/* function buscarUsuario(){
+ function buscarUsuario(){
     return new Promise((resolve, reject)=>{
         setTimeout(()=>{
         resolve([
@@ -38,7 +38,7 @@ function enviarEmail(corpo, para){
 
    },3000)
 })
-} */
+}
 /* let usuarios = buscarUsuario();
 console.log(usuarios)
  */
